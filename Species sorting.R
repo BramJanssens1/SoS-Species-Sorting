@@ -3,6 +3,8 @@ rm(list=ls())
 ###### Use the right 
 setwd("C:/Users/u0175011/OneDrive - KU Leuven/PhD jaar 1/summer of science/practical")
 
+install.packages("vegan")
+install.packages("tidyverse")
 ###### Load libraries ######
 library(vegan)
 library(tidyverse)
